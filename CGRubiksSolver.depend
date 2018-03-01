@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1323579082 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\aalgoritmo.cpp
+	"AAlgoritmo.h"
+	"F2L.h"
+
+1323579069 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\aalgoritmo.h
+	"ICuboObserver.h"
+	"EstadoAlgoritmo.h"
+	<queue>
+
+1319746747 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\icuboobserver.h
+	"Cubo.h"
+
+1323549788 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubo.h
+	"Cubiculo.h"
+	"Desenhavel.h"
+	"Face.h"
+	"ICuboObserver.h"
+	"AAlgoritmo.h"
+	<list>
+
+1323620744 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubiculo.h
+	"Quadrado.h"
+	"Desenhavel.h"
+	<vector>
+	<list>
+
+1319740811 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quadrado.h
+	"Vector3.h"
+	"Color.h"
+	<list>
+	"Desenhavel.h"
+
+1318565351 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\vector3.h
+	"Matriz.h"
+	"Definicoes.h"
+
+1318015135 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\matriz.h
+
+1323585985 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\definicoes.h
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<stdio.h>
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\winuser.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winerror.h
+
+1250312280 c:\program files (x86)\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1250312274 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+
+1228530712 c:\program files (x86)\codeblocks\mingw\include\basetsd.h
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\pshpack4.h
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\poppack.h
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\winver.h
+
+1228530714 c:\program files (x86)\codeblocks\mingw\include\dde.h
+
+1228530714 c:\program files (x86)\codeblocks\mingw\include\dlgs.h
+
+1228530714 c:\program files (x86)\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\prsht.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\wincon.h
+
+1228530730 c:\program files (x86)\codeblocks\mingw\include\winbase.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\wingdi.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winnls.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winnetwk.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winreg.h
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\winsvc.h
+
+1228530712 c:\program files (x86)\codeblocks\mingw\include\cderr.h
+
+1228530714 c:\program files (x86)\codeblocks\mingw\include\ddeml.h
+
+1228530716 c:\program files (x86)\codeblocks\mingw\include\imm.h
+
+1228530720 c:\program files (x86)\codeblocks\mingw\include\lzexpand.h
+
+1228530722 c:\program files (x86)\codeblocks\mingw\include\mmsystem.h
+
+1228530722 c:\program files (x86)\codeblocks\mingw\include\nb30.h
+
+1228530726 c:\program files (x86)\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1228530726 c:\program files (x86)\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1228530712 c:\program files (x86)\codeblocks\mingw\include\basetyps.h
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\rpcdcep.h
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\rpcnsi.h
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
+
+1250312276 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\pshpack2.h
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winperf.h
+
+1228530714 c:\program files (x86)\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1228530730 c:\program files (x86)\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1228530728 c:\program files (x86)\codeblocks\mingw\include\rpcnsip.h
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\winspool.h
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1228530732 c:\program files (x86)\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1228530722 c:\program files (x86)\codeblocks\mingw\include\mswsock.h
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1250312280 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1228530712 c:\program files (x86)\codeblocks\mingw\include\cguid.h
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\olectlid.h
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1228530722 c:\program files (x86)\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1228530724 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+976674172 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\gl\gl.h
+
+1228530734 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1250312278 c:\program files (x86)\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1250312280 c:\program files (x86)\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250312282 c:\program files (x86)\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1320184892 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\color.h
+	"Definicoes.h"
+
+1320184935 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\desenhavel.h
+	<list>
+	"Color.h"
+
+1323571736 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\face.h
+	"Cubiculo.h"
+
+1320349962 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\estadoalgoritmo.h
+	"AAlgoritmo.h"
+
+1323578884 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\f2l.h
+	"AAlgoritmo.h"
+
+1323228339 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\camera.cpp
+	"Camera.h"
+
+1318654564 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\camera.h
+	"Vector3.h"
+
+1320439759 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\color.cpp
+	"Color.h"
+	<stdio.h>
+
+1323578514 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\corparabaixoestado.cpp
+	"CorParaBaixoEstado.h"
+	"CruzInferiorEstado.h"
+	"Principal.h"
+
+1320434352 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\corparabaixoestado.h
+	"EstadoAlgoritmo.h"
+
+1320799832 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzinferiorestado.h
+	"EstadoAlgoritmo.h"
+
+1323408886 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzinferiorestado.cpp
+	"CruzInferiorEstado.h"
+	"QuinasInferiorEstado.h"
+
+1323558569 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quinasinferiorestado.h
+	"EstadoAlgoritmo.h"
+	<list>
+
+1320184951 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubiculo.cpp
+	"Cubiculo.h"
+	"Definicoes.h"
+	"Principal.h"
+
+1323587945 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\principal.h
+	"Cubo.h"
+	"Definicoes.h"
+
+1323549644 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubo.cpp
+	"Cubo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1250312280 c:\program files (x86)\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1323585578 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\definicoes.cpp
+	"Definicoes.h"
+	"Vector3.h"
+
+1320184935 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\desenhavel.cpp
+	"Desenhavel.h"
+	"Definicoes.h"
+	"Device.h"
+	<stdio.h>
+
+1323587597 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\device.h
+	"Display.h"
+	"Principal.h"
+
+1318726498 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\display.h
+	"Desenhavel.h"
+	"Color.h"
+
+1323588039 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\device.cpp
+	"Device.h"
+	"Definicoes.h"
+	"AAlgoritmo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1323622777 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\display.cpp
+	"Definicoes.h"
+	"Display.h"
+
+1319758233 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\estadoalgoritmo.cpp
+	"EstadoAlgoritmo.h"
+
+1323578998 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\f2l.cpp
+	"F2L.h"
+	"CorParaBaixoEstado.h"
+
+1323572087 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\face.cpp
+	"Face.h"
+
+1318564036 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\matriz.cpp
+	"Matriz.h"
+	<math.h>
+	"Definicoes.h"
+
+1323588014 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\principal.cpp
+	"Principal.h"
+	"Device.h"
+	"Display.h"
+	<stdio.h>
+
+1323622360 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quadrado.cpp
+	"Quadrado.h"
+	"Definicoes.h"
+	"Device.h"
+
+1323585116 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quinasinferiorestado.cpp
+	"QuinasInferiorEstado.h"
+	"SegundaCamadaEstado.h"
+
+1318565646 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\vector3.cpp
+	"Vector3.h"
+	<math.h>
+	"Definicoes.h"
+
+1323622790 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\main.cpp
+	"Principal.h"
+	"Device.h"
+
+1323406835 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\segundacamadaestado.h
+	"EstadoAlgoritmo.h"
+	<list>
+
+1323560957 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\segundacamadaestado.cpp
+	"SegundaCamadaEstado.h"
+	"CruzSuperiorEstado.h"
+
+1323536831 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzsuperiorestado.h
+	"EstadoAlgoritmo.h"
+
+1323562947 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzsuperiorestado.cpp
+	"CruzSuperiorEstado.h"
+	"FaceSuperiorEstado.h"
+
+1323567796 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\facesuperiorestado.h
+	"EstadoAlgoritmo.h"
+	<vector>
+
+1323585525 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\facesuperiorestado.cpp
+	"FaceSuperiorEstado.h"
+	"CentraisSuperioresEstado.h"
+
+1323578303 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\centraissuperioresestado.cpp
+	"CentraisSuperioresEstado.h"
+	"UltimoMovimentoEstado.h"
+
+1323573706 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\centraissuperioresestado.h
+	"EstadoAlgoritmo.h"
+
+1323577942 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\ultimomovimentoestado.h
+	"EstadoAlgoritmo.h"
+
+1323578497 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\ultimomovimentoestado.cpp
+	"UltimoMovimentoEstado.h"
+

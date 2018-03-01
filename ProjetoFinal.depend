@@ -1,0 +1,611 @@
+# depslib dependency file v1.0
+1318399159 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\main.cpp
+	"Principal.h"
+	"Device.h"
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winuser.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winerror.h
+
+1259403158 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1259403154 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\_mingw.h
+
+1258795902 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\basetsd.h
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\pshpack4.h
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\poppack.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winver.h
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\dde.h
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\dlgs.h
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\commctrl.h
+	<prsht.h>
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\prsht.h
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\windef.h
+	<winnt.h>
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\wincon.h
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winbase.h
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\wingdi.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winnls.h
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winnetwk.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winreg.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winsvc.h
+
+1258795902 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\cderr.h
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\ddeml.h
+
+1258795906 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\imm.h
+
+1258795908 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\lzexpand.h
+
+1258795908 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\mmsystem.h
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\nb30.h
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1258795902 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\basetyps.h
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcdcep.h
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcnsi.h
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcnterr.h
+
+1259403156 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\pshpack2.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winperf.h
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1258795916 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\objfwd.h
+	<basetyps.h>
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1258795914 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\rpcnsip.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winspool.h
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winsock2.h
+	<windows.h>
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\mswsock.h
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1259403158 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\objidl.h
+	<objfwd.h>
+
+1258795904 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\cguid.h
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\olectlid.h
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\oleauto.h
+	<oaidl.h>
+
+1258795910 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1258795912 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\oleidl.h
+	<objfwd.h>
+
+976677772 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1258795918 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\gl\gl.h
+
+1258795920 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1259403156 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\math.h
+	<_mingw.h>
+
+1259403158 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1259403160 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1318564036 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\matriz.cpp
+	"Matriz.h"
+	<math.h>
+	"Definicoes.h"
+
+1318015135 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\matriz.h
+
+1318565646 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\vector3.cpp
+	"Vector3.h"
+	<math.h>
+	"Definicoes.h"
+
+1318565351 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\vector3.h
+	"Matriz.h"
+	"Definicoes.h"
+
+1320189767 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quadrado.cpp
+	"Quadrado.h"
+	"Definicoes.h"
+	"Device.h"
+
+1319744411 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quadrado.h
+	"Vector3.h"
+	"Color.h"
+	<list>
+	"Desenhavel.h"
+
+1320188492 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\color.h
+	"Definicoes.h"
+
+1320443359 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\color.cpp
+	"Color.h"
+	<stdio.h>
+
+1320188535 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\desenhavel.cpp
+	"Desenhavel.h"
+	"Definicoes.h"
+	"Device.h"
+	<stdio.h>
+
+1320188535 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\desenhavel.h
+	<list>
+	"Color.h"
+
+1320188551 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cubiculo.cpp
+	"Cubiculo.h"
+	"Definicoes.h"
+	"Principal.h"
+
+1320188551 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cubiculo.h
+	"Quadrado.h"
+	"Desenhavel.h"
+	<vector>
+	<list>
+
+1320882090 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\definicoes.h
+	<windows.h>
+	<glut.h>
+	<math.h>
+	<iostream>
+	<stdio.h>
+
+1320882000 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\principal.cpp
+	"Principal.h"
+	"Device.h"
+	"Display.h"
+	<stdio.h>
+
+1318728294 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\principal.h
+	"Cubo.h"
+	"Definicoes.h"
+
+1320439920 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\device.cpp
+	"Device.h"
+	"Definicoes.h"
+	"AAlgoritmo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1320374125 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\device.h
+	"Display.h"
+	"Principal.h"
+
+1318726498 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\display.h
+	"Desenhavel.h"
+	"Color.h"
+
+1320352734 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\display.cpp
+	"Definicoes.h"
+	"Display.h"
+
+1318654849 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\camera.cpp
+	"Camera.h"
+
+1318654564 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\camera.h
+	"Vector3.h"
+
+1320439396 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cubo.h
+	"Cubiculo.h"
+	"Desenhavel.h"
+	"Face.h"
+	"ICuboObserver.h"
+	"AAlgoritmo.h"
+	<list>
+
+1320439416 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cubo.cpp
+	"Cubo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1320802062 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\face.h
+	"Cubiculo.h"
+
+1320802125 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\face.cpp
+	"Face.h"
+
+1318705492 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\keyboard.h
+	"Device.h"
+	"IKeyboardListener.h"
+	<list>
+
+1318704949 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\ikeyboardlistener.h
+	"Keyboard.h"
+
+1318704789 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\ikeyboardlistener.cpp
+	"IKeyboardListener.h"
+
+1318705457 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\keyboard.cpp
+	"Keyboard.h"
+
+1319750347 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\icuboobserver.h
+	"Cubo.h"
+
+1320882245 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\aalgoritmo.cpp
+	"AAlgoritmo.h"
+	"F2L.h"
+
+1320441141 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\aalgoritmo.h
+	"ICuboObserver.h"
+	"EstadoAlgoritmo.h"
+	<queue>
+
+1259403158 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1319761833 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\estadoalgoritmo.cpp
+	"EstadoAlgoritmo.h"
+
+1320353562 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\estadoalgoritmo.h
+	"AAlgoritmo.h"
+
+1320374326 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\f2l.h
+	"AAlgoritmo.h"
+
+1320881991 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cruzinferiorestado.cpp
+	"CruzInferiorEstado.h"
+	"QuinasInferiorEstado.h"
+
+1320803432 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\cruzinferiorestado.h
+	"EstadoAlgoritmo.h"
+
+1320442555 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\f2l.cpp
+	"F2L.h"
+	"CorParaBaixoEstado.h"
+
+1320882220 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\definicoes.cpp
+	"Definicoes.h"
+	"Vector3.h"
+
+1320437952 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\corparabaixoestado.h
+	"EstadoAlgoritmo.h"
+
+1320439263 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\corparabaixoestado.cpp
+	"CorParaBaixoEstado.h"
+	"CruzInferiorEstado.h"
+
+1320440451 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quinascamadainferiorestado.h
+	"EstadoAlgoritmo.h"
+
+1320441203 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quinascamadainferiorestado.cpp
+	"QuinasCamadaInferiorEstado.h"
+
+1320881691 c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quinasinferiorestado.h
+	"EstadoAlgoritmo.h"
+	<list>
+
+1320881867 source:c:\documents and settings\usuario\meus documentos\gui\programas\codeblocks 10\projetos\cgrubiks\trunk\projetofinal\quinasinferiorestado.cpp
+	"QuinasInferiorEstado.h"
+
+1320878645 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\aalgoritmo.cpp
+	"AAlgoritmo.h"
+	"F2L.h"
+
+1320437541 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\aalgoritmo.h
+	"ICuboObserver.h"
+	"EstadoAlgoritmo.h"
+	<queue>
+
+1319746747 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\icuboobserver.h
+	"Cubo.h"
+
+1320435796 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubo.h
+	"Cubiculo.h"
+	"Desenhavel.h"
+	"Face.h"
+	"ICuboObserver.h"
+	"AAlgoritmo.h"
+	<list>
+
+1320184951 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubiculo.h
+	"Quadrado.h"
+	"Desenhavel.h"
+	<vector>
+	<list>
+
+1319740811 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quadrado.h
+	"Vector3.h"
+	"Color.h"
+	<list>
+	"Desenhavel.h"
+
+1318565351 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\vector3.h
+	"Matriz.h"
+	"Definicoes.h"
+
+1318015135 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\matriz.h
+
+1323232740 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\definicoes.h
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<stdio.h>
+
+976674172 c:\users\guilherme m\documents\projetos\c++\bibliotecas\glut-3.7.6-bin\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1320184892 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\color.h
+	"Definicoes.h"
+
+1320184935 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\desenhavel.h
+	<list>
+	"Color.h"
+
+1320798462 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\face.h
+	"Cubiculo.h"
+
+1320349962 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\estadoalgoritmo.h
+	"AAlgoritmo.h"
+
+1320370726 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\f2l.h
+	"AAlgoritmo.h"
+
+1323228339 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\camera.cpp
+	"Camera.h"
+
+1318654564 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\camera.h
+	"Vector3.h"
+
+1320439759 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\color.cpp
+	"Color.h"
+	<stdio.h>
+
+1320435663 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\corparabaixoestado.cpp
+	"CorParaBaixoEstado.h"
+	"CruzInferiorEstado.h"
+
+1320434352 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\corparabaixoestado.h
+	"EstadoAlgoritmo.h"
+
+1320799832 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzinferiorestado.h
+	"EstadoAlgoritmo.h"
+
+1320878391 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cruzinferiorestado.cpp
+	"CruzInferiorEstado.h"
+	"QuinasInferiorEstado.h"
+
+1320878091 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quinasinferiorestado.h
+	"EstadoAlgoritmo.h"
+	<list>
+
+1320184951 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubiculo.cpp
+	"Cubiculo.h"
+	"Definicoes.h"
+	"Principal.h"
+
+1318728294 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\principal.h
+	"Cubo.h"
+	"Definicoes.h"
+
+1320435816 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\cubo.cpp
+	"Cubo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1320878620 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\definicoes.cpp
+	"Definicoes.h"
+	"Vector3.h"
+
+1320184935 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\desenhavel.cpp
+	"Desenhavel.h"
+	"Definicoes.h"
+	"Device.h"
+	<stdio.h>
+
+1320370525 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\device.h
+	"Display.h"
+	"Principal.h"
+
+1318726498 c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\display.h
+	"Desenhavel.h"
+	"Color.h"
+
+1320436320 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\device.cpp
+	"Device.h"
+	"Definicoes.h"
+	"AAlgoritmo.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1320349134 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\display.cpp
+	"Definicoes.h"
+	"Display.h"
+
+1319758233 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\estadoalgoritmo.cpp
+	"EstadoAlgoritmo.h"
+
+1320438955 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\f2l.cpp
+	"F2L.h"
+	"CorParaBaixoEstado.h"
+
+1320798525 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\face.cpp
+	"Face.h"
+
+1318564036 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\matriz.cpp
+	"Matriz.h"
+	<math.h>
+	"Definicoes.h"
+
+1322704324 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\principal.cpp
+	"Principal.h"
+	"Device.h"
+	"Display.h"
+	<stdio.h>
+
+1320186167 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quadrado.cpp
+	"Quadrado.h"
+	"Definicoes.h"
+	"Device.h"
+
+1323228334 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\quinasinferiorestado.cpp
+	"QuinasInferiorEstado.h"
+
+1318565646 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\vector3.cpp
+	"Vector3.h"
+	<math.h>
+	"Definicoes.h"
+
+1318399159 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\main.cpp
+	"Principal.h"
+	"Device.h"
+
+1323231624 source:c:\users\guilherme m\documents\projetos\c++\cg - rubik's cube\definicoes.h
+	<windows.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<math.h>
+	<iostream>
+	<stdio.h>
+
